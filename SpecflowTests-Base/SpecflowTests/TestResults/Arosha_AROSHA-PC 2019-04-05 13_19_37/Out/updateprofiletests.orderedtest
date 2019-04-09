@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<OrderedTest name="orderedtest1" storage="e:\industry connect\specflowtests-base\specflowtests-base\specflowtests\specflowtests\orderedtest1.orderedtest" id="b6b8bc51-37a4-4e60-8bea-892fc7dcc94f" continueAfterFailure="true" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestLinks>
+    <TestLink id="9fe4d875-b5d9-8b61-9885-5e980630a981" name="CheckIfUserCouldAbleToAddALanguage" storage="bin\debug\specflowtests.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel,   PublicKeyToken=b03f5f7f11d50a3a" />
+    <TestLink id="15919846-87f3-0df5-cd43-6ba778727eb7" name="CheckIfUserCouldUpdateAnExistingLanguage" storage="bin\debug\specflowtests.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel,   PublicKeyToken=b03f5f7f11d50a3a" />
+  </TestLinks>
+</OrderedTest>

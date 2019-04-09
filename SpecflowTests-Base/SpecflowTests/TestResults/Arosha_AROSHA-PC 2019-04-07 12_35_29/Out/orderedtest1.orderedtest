@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<OrderedTest name="OrderedTest1" storage="e:\industry connect\specflowtests-base\specflowtests-base\specflowtests\specflowtests\acceptancetest\orderedtest1.orderedtest" id="e90a41b0-b365-4832-aa8a-ce30a42a4202" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestLinks>
+    <TestLink id="9fe4d875-b5d9-8b61-9885-5e980630a981" name="CheckIfUserCouldAbleToAddALanguage" storage="..\bin\debug\specflowtests.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel,   PublicKeyToken=b03f5f7f11d50a3a" />
+    <TestLink id="e6eeebef-3b17-41cc-62df-1cbf7587487c" name="CheckIfUserCouldRemoveExistingLanguageFromTheListing" storage="..\bin\debug\specflowtests.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel,   PublicKeyToken=b03f5f7f11d50a3a" />
+    <TestLink id="8ec0c5b9-7217-f1a8-6d31-2297c7fbc459" name="CheckIfUserCouldUpdateTheLevelOfALanguage" storage="..\bin\debug\specflowtests.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel,   PublicKeyToken=b03f5f7f11d50a3a" />
+    <TestLink id="15919846-87f3-0df5-cd43-6ba778727eb7" name="CheckIfUserCouldUpdateAnExistingLanguage" storage="..\bin\debug\specflowtests.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel,   PublicKeyToken=b03f5f7f11d50a3a" />
+  </TestLinks>
+</OrderedTest>
